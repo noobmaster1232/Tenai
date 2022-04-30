@@ -11,6 +11,6 @@ setup(
         'Programming Language :: Python :: 3.9',
     ],
     packages = find_packages(),
-    install_requires = ['pysimpleig', 'requests', 'string-color'],
+    install_requires = ['pysimpleig', 'requests','pycryptodomex', 'string-color'],
     entry_points = {'console_scripts': ['tenai = tenai.core:main']}
 )

@@ -1,2 +1,6 @@
 tenai/auths.json
 tenai/*_mutuals.json
+venv
+build
+dist
+tenai.egg-info
