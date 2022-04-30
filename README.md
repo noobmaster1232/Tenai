@@ -10,7 +10,7 @@ pip install tenai
 ```
 ### 💻 Use it from Command Line
 ```python
-# Print help
+# Print help d
 tenai -h/--help
 # Usage
 tenai -s/--session-id SESSIONID -u/--username USERNAME
